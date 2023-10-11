@@ -1,1 +1,40 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: green;
+}
+
+.container {
+  border-radius: 5%;
+  width: 150px;
+  margin: auto;
+  margin-top: 4%;
+  background: white;
+}
+
+.CardIitems {
+  font-size: 250%;
+}
+
+.top-item {
+  margin-left: 5%;
+}
+
+.number {
+  text-align: center;
+}
+
+.BottonItem {
+  text-align: left;
+  margin-right: 5%;
+  transform: rotate(180deg);
+}
+
+.buttonClass {
+  text-align: center;
+  margin-top: 3%;
+}
+
+.buttonGen {
+  border: solid gray 3px;
+  background: rgb(150, 95, 95);
+  padding: 0.5%;
+}
